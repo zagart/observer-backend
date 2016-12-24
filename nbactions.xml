@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<actions>
+  <action>
+    <actionName>CUSTOM-appengine:gcloud</actionName>
+    <displayName>appengine:run</displayName>
+    <goals>
+      <goal>jetty:run-exploded</goal>
+    </goals>
+  </action>
+  <action>
+    <actionName>CUSTOM-appengine:gcloud</actionName>
+    <displayName>appengine:deploy</displayName>
+    <goals>
+      <goal>appengine:deploy</goal>
+    </goals>
+  </action>
+</actions>

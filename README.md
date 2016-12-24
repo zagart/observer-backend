@@ -1,2 +1,2 @@
-# observer-backend
-Appengine backend for Observer application.
+#Observer AppEngine backend.
+
